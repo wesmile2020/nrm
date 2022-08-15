@@ -1,4 +1,8 @@
 nrm -- NPM registry manager
+
+## IMPORTANT
+fork from https://github.com/Pana/nrm
+
 ===
 
 [![NPM version][npm-image]][npm-url]
